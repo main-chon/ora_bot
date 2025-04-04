@@ -1,4 +1,3 @@
-# 히든커맨드는 !급식으로 보이지 않음
 from discord.ext import commands
 import os
 
